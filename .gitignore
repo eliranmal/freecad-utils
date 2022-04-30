@@ -1,0 +1,3 @@
+dist
+#src/freecad_utils_eliranmal.egg-info
+**/*.egg-info/**/*
