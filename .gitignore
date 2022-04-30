@@ -1,3 +1,10 @@
+# IDE
+.idea
+.vscode
+
+# build output
 dist
-#src/freecad_utils_eliranmal.egg-info
-**/*.egg-info/**/*
+
+# python eggs
+*.egg
+*.egg-info
