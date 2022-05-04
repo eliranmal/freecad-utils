@@ -6,9 +6,9 @@
 ### prerequisites
 
 - python >= 3.6
-- pip >= 22 (for local setup)
+- pip >= 22 (for local installation)
 
-### install
+### installation
 
 #### pypi
 
