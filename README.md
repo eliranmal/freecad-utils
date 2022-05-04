@@ -1,7 +1,5 @@
-# freecad-utils
+# freecad-utils &nbsp; <sub><sub><sup><sup>_high level convenience utilities for freecad_</sup></sup></sub></sub>
 
-high level convenience utilities for freecad
-        
 
 ## prerequisites
 
