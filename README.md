@@ -1,20 +1,21 @@
 # freecad-utils &nbsp; <sub><sub><sup><sup>_high level convenience utilities for freecad_</sup></sup></sub></sub>
 
 
-## prerequisites
+## setup
+
+### prerequisites
 
 - python >= 3.6
 - pip >= 22 (for local setup)
 
+### install
 
-## setup
-
-### pypi
+#### pypi
 
 not supported yet
            
 
-### local
+#### local
 
 - clone this repo
 - navigate to the root directory
